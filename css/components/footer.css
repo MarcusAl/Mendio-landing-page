@@ -1,0 +1,16 @@
+footer {
+  background: #565661;
+  display: flex;
+  justify-content: center;
+  height: 25vh;
+}
+
+.footer-list {
+  display: inline-flex;
+  margin-top: 10vh;
+  align-content: space-between;
+}
+
+.footer-link {
+  list-style-type: none;
+}

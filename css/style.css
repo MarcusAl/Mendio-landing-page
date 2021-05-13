@@ -1,0 +1,63 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Banner */
+@import url('./components/banner.css');
+
+/* Nav */
+@import url('./components/nav.css');
+
+/* Buttons */
+@import url('./components/button.css');
+
+/* Cards */
+@import url('./components/cards.css');
+
+/* Icons */
+@import url('./components/icons.css');
+
+/* Footer */
+@import url('./components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'nunito sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+.container {
+  margin: 0 auto;
+  width: 70%;
+  height: 100%;
+}
+
+.margin-extra-top {
+  margin-top: 13%;
+}
+
+.color-white {
+  color: #FFFFFF;
+}
+
+.color-black {
+  color: black;
+}
+
+.txt-medium {
+  font-size: 19px;
+  letter-spacing: 1px;
+  line-height: 150%;
+  font-family: 'nunito sans', sans-serif;
+}

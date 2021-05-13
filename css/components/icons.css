@@ -1,0 +1,9 @@
+.icon {
+  color: #F5F5F5;
+  font-size: 38px;
+  margin: 0 20px 0 20px;
+}
+
+.icon:hover {
+  color: blue;
+}

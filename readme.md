@@ -7,6 +7,10 @@
 In this project, I have created a simple landing page for a fictional office hosting client. The design was sketched on Figma, and then developed on HTML/CSS.
 I used a component based approach, so that the project could be easily expanded in the future.
 
+# Live Version
+
+- [Mendio](https://marcusal.github.io/Mendio-landing-page/)
+
 <img align="center" alt="Screenshot" height="400px" src="Screenshot 2021-05-14 at 08.49.02.png"/>
 
 ## Authors
